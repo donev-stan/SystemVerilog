@@ -1,2 +1,2 @@
 # SystemVerilog
-FIFO Verification Environment and Coverage
+FIFO Verification Environment + Coverage & Assertions
